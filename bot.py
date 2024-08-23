@@ -7,7 +7,7 @@ import requests
 from requests.adapters import HTTPAdapter, Retry
 
 # دریافت توکن از متغیر محیطی
-TOKEN = '7291961799:AAFN8zhDY_2_TY5NMYEbuJ1P6hAzU7xnr3Q'
+TOKEN = '7545696575:AAGwGbg_fDsdNClHcG3sHGBNtcVoAga05y8'
 # آدرس API تلگرام
 URL = f'https://api.telegram.org/bot{TOKEN}/'
 # لینک Web App
